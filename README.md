@@ -1,5 +1,10 @@
 # Sujosh Jana
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujosh-Jana&show_icons=true&theme=tokyonight)
+
 AI builder • Crypto trader • Game developer • Systems thinker
 
 I build software that leverages automation, algorithms, and scalable systems.
