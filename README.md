@@ -3,7 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujosh-Jana&show_icons=true&theme=tokyonight)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 AI builder • Crypto trader • Game developer • Systems thinker
 
